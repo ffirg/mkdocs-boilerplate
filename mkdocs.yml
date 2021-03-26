@@ -1,0 +1,21 @@
+site_name: name
+site_description: desc
+site_author: your_name
+copyright: copyright 2021
+
+nav:
+    # high level menu items
+    - Home: 'index.md'
+    - About: 'about.md'
+# indentation example for more levels deep
+#    - More:
+#        - 'Topic 1': tbd.md
+#        - 'Topic 2':
+#            - 'item1': item1.md
+#            - 'item2': item2.md
+
+# alternative OOTB:
+theme: readthedocs
+
+# pip install these first:
+#theme: bootstrap386
